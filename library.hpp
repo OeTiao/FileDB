@@ -21,14 +21,14 @@ class DBInstance
 public:
     static int NumOfValues; //static because it will be the same for all instances of the class
     std::string Name;
-    std::filesystem::path Path; // A variável Path deve ser constante
+    std::filesystem::path Path;
 
-    DBInstance(std::string  CName, std::filesystem::path CPath); // Use '&' para passar por referência
+    DBInstance(std::string  CName, std::filesystem::path CPath);
     template<typename T>
-    File CreateFile(T Value); // Criará valor e aumentará numofvalues by 1
-    void DeleteFile(const File& Value); // Tirará valor e abaixará numofvalues by 1
-    auto ReadFile(File Value); // Procurará o valor e retornará seu valor
-    void OverwriteFile(File Value); // Vai substituir um valor
+    File CreateFile(T Value);
+    void DeleteFile(const File& Value); /
+    auto ReadFile(File Value);
+    void OverwriteFile(File Value);
 };
 
 #endif // FILEDB_H

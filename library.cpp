@@ -5,7 +5,7 @@
 #include <utility>
 #include <iostream>
 
-// Definindo a variável estática
+
 int DBInstance::NumOfValues = 0;
 
 File::File(const int CID, std::string CValue, std::filesystem::path FilePath, std::string Name) : ID(CID), Value(CValue)
@@ -40,6 +40,6 @@ void DBInstance::DeleteFile(const File& Value)
 }
 
 
-// Definições específicas de função template devem estar aqui
-template File DBInstance::CreateFile<std::string>(std::string Value); // Exemplo de instância específica
+
+template File DBInstance::CreateFile<std::string>(std::string Value);
 template File DBInstance::CreateFile<const char*>(const char*);
