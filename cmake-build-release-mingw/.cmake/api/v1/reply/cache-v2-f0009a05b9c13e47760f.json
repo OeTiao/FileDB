@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-mingw"
+			"value" : "c:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-mingw"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -559,7 +559,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-mingw/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-mingw/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -631,7 +631,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib"
+			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1267,7 +1267,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-mingw"
+			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-mingw"
 		},
 		{
 			"name" : "FileDB_IS_TOP_LEVEL",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib"
+			"value" : "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

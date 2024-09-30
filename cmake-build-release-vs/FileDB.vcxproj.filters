@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\library.cpp">
+    <ClCompile Include="C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\library.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{AED201E3-2278-3FC5-9004-456A4F232E74}</UniqueIdentifier>
+      <UniqueIdentifier>{A30249BC-DC75-389E-A437-B27DDF111848}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

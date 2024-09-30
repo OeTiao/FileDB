@@ -23,7 +23,7 @@ public:
     DBInstance(std::string  CName, std::filesystem::path  CPath); // Use '&' para passar por referência
     template<typename T>
     File CreateFile(T Value); // Criará valor e aumentará numofvalues by 1
-    void DeleteFile(File Value); // Tirará valor e abaixará numofvalues by 1
+    void DeleteFile(const File& Value); // Tirará valor e abaixará numofvalues by 1
     auto ReadFile(File Value); // Procurará o valor e retornará seu valor
     void OverwriteFile(File Value); // Vai substituir um valor
 };

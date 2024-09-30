@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib
+# Install script for directory: C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-debug-mingw/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-debug-mingw/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
