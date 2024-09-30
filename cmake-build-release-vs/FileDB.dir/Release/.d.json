@@ -4,7 +4,7 @@
         "Source": "c:\\users\\itx gamer\\documents\\programacao\\c++\\filedb\\library.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\itx gamer\\documents\\programacao\\c++\\filedb\\library.h",
+            "c:\\users\\itx gamer\\documents\\programacao\\c++\\filedb\\library.hpp",
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\filesystem",
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\yvals_core.h",
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.41.34120\\include\\vcruntime.h",
