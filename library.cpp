@@ -5,19 +5,16 @@
 #include <utility>
 #include <iostream>
 
-// Definindo a variável estática
+
 int DBInstance::NumOfValues = 0;
 
-File::File(const int CID, const std::string& CValue) : ID(CID), Value(CValue)
+File::File(const int CID, std::string  CValue, const std::filesystem::path& FilePath, const std::string& Name) : ID(CID), Value(std::move(CValue))
 {
-    // Cria o arquivo com o nome baseado no ID
-    std::filesystem::path filePath = std::to_string(ID) + ".txt";
-    std::ofstream NewFile(filePath); // Cria e abre o arquivo
-    if (NewFile) {
-        NewFile << Value; // Escreve o valor no arquivo
-    } else {
-        throw std::runtime_error("Erro ao criar o arquivo: " + filePath.string());
-    }
+
+    std::ofstream NewFile(FilePath.string() + "/" + Name + "/" + std::to_string(CID) + ".sdb");
+
+    NewFile << Value;
+    NewFile.close();
 }
 
 
@@ -34,15 +31,15 @@ template <typename T>
 File DBInstance::CreateFile(T Value)
 {
     NumOfValues++;
-    return File(NumOfValues, Value);
+    return File(NumOfValues, Value, DBInstance::Path, DBInstance::Name);
 }
 
 void DBInstance::DeleteFile(const File& Value)
 {
-   // std::filesystem::remove(Path )
+    // std::filesystem::remove(Path )
 }
 
 
-// Definições específicas de função template devem estar aqui
-template File DBInstance::CreateFile<std::string>(std::string Value); // Exemplo de instância específica
+
+template File DBInstance::CreateFile<std::string>(std::string Value);
 template File DBInstance::CreateFile<const char*>(const char*);
