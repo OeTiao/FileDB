@@ -1,0 +1,10 @@
+^C:\USERS\ITX GAMER\DOCUMENTS\PROGRAMACAO\C++\WRITEFILELIB\CMAKE-BUILD-RELEASE-VS\CMAKEFILES\9A92308200857A827B2E0DD73775164C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" "-SC:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib" "-BC:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/FileDB.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

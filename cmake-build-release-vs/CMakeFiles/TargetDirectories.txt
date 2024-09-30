@@ -1,0 +1,3 @@
+C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/FileDB.dir
+C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/ZERO_CHECK.dir

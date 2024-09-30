@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FileDB.dir\\Release\\library.obj",
+            "outputs": [
+                "FileDB.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}
