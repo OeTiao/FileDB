@@ -24,9 +24,9 @@ events:
       The output was:
       0
       Vers├úo do MSBuild 17.11.9+a69bbaaf5 para .NET Framework
-      Compila├º├úo de 29/09/2024 20:36:41 iniciada.
+      Compila├º├úo de 30/09/2024 13:42:28 iniciada.
       
-      Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.vcxproj" no n├│ 1 (destinos padr├úo).
+      Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.vcxproj" no n├│ 1 (destinos padr├úo).
       PrepareForBuild:
         Criando o diret├│rio "Debug\\".
         A sa├¡da estruturada est├í habilitada. A formata├º├úo do diagn├│stico do compilador refletir├í a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
@@ -39,7 +39,7 @@ events:
         CMakeCCompilerId.c
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
-        CompilerIdC.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.exe
+        CompilerIdC.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
         :VCEnd
@@ -47,13 +47,13 @@ events:
       FinalizeBuildStatus:
         Excluindo o arquivo "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
         Tocando "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
-      Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.vcxproj" (destinos padr├úo).
+      Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdC\\CompilerIdC.vcxproj" (destinos padr├úo).
       
       Compila├º├úo com ├¬xito.
           0 Aviso(s)
           0 Erro(s)
       
-      Tempo Decorrido 00:00:01.10
+      Tempo Decorrido 00:00:01.68
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -61,7 +61,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
       
       The C compiler identification is MSVC, found in:
-        C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/3.29.6/CompilerIdC/CompilerIdC.exe
+        C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/3.29.6/CompilerIdC/CompilerIdC.exe
       
   -
     kind: "message-v1"
@@ -79,9 +79,9 @@ events:
       The output was:
       0
       Vers├úo do MSBuild 17.11.9+a69bbaaf5 para .NET Framework
-      Compila├º├úo de 29/09/2024 20:36:43 iniciada.
+      Compila├º├úo de 30/09/2024 13:42:30 iniciada.
       
-      Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.vcxproj" no n├│ 1 (destinos padr├úo).
+      Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.vcxproj" no n├│ 1 (destinos padr├úo).
       PrepareForBuild:
         Criando o diret├│rio "Debug\\".
         A sa├¡da estruturada est├í habilitada. A formata├º├úo do diagn├│stico do compilador refletir├í a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
@@ -94,7 +94,7 @@ events:
         CMakeCXXCompilerId.cpp
       Link:
         C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
-        CompilerIdCXX.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.exe
+        CompilerIdCXX.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.exe
       PostBuildEvent:
         for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
         :VCEnd
@@ -102,13 +102,13 @@ events:
       FinalizeBuildStatus:
         Excluindo o arquivo "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
         Tocando "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
-      Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (destinos padr├úo).
+      Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\3.29.6\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (destinos padr├úo).
       
       Compila├º├úo com ├¬xito.
           0 Aviso(s)
           0 Erro(s)
       
-      Tempo Decorrido 00:00:00.69
+      Tempo Decorrido 00:00:00.71
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -116,7 +116,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
       
       The CXX compiler identification is MSVC, found in:
-        C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/3.29.6/CompilerIdCXX/CompilerIdCXX.exe
+        C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/3.29.6/CompilerIdCXX/CompilerIdCXX.exe
       
   -
     kind: "try_compile-v1"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-1lbbwe"
-      binary: "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-1lbbwe"
+      source: "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-cz0e7r"
+      binary: "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-cz0e7r"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-1lbbwe'
+        Change Dir: 'C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-cz0e7r'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3543a.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5c492.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Vers├úo do MSBuild 17.11.9+a69bbaaf5 para .NET Framework
-        Compila├º├úo de 29/09/2024 20:36:44 iniciada.
+        Compila├º├úo de 30/09/2024 13:42:31 iniciada.
         
-        Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-1lbbwe\\cmTC_3543a.vcxproj" no n├│ 1 (destinos padr├úo).
+        Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-cz0e7r\\cmTC_5c492.vcxproj" no n├│ 1 (destinos padr├úo).
         PrepareForBuild:
-          Criando o diret├│rio "cmTC_3543a.dir\\Debug\\".
+          Criando o diret├│rio "cmTC_5c492.dir\\Debug\\".
           A sa├¡da estruturada est├í habilitada. A formata├º├úo do diagn├│stico do compilador refletir├í a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
-          Criando o diret├│rio "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-1lbbwe\\Debug\\".
-          Criando o diret├│rio "cmTC_3543a.dir\\Debug\\cmTC_3543a.tlog\\".
+          Criando o diret├│rio "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-cz0e7r\\Debug\\".
+          Criando o diret├│rio "cmTC_5c492.dir\\Debug\\cmTC_5c492.tlog\\".
         InitializeBuildStatus:
-          Criando "cmTC_3543a.dir\\Debug\\cmTC_3543a.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
-          Tocando "cmTC_3543a.dir\\Debug\\cmTC_3543a.tlog\\unsuccessfulbuild".
+          Criando "cmTC_5c492.dir\\Debug\\cmTC_5c492.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+          Tocando "cmTC_5c492.dir\\Debug\\cmTC_5c492.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3543a.dir\\Debug\\\\" /Fd"cmTC_3543a.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c492.dir\\Debug\\\\" /Fd"cmTC_5c492.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Vers├úo 19.41.34120 para x64
           Copyright (C) Microsoft Corporation. Todos os direitos reservados.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3543a.dir\\Debug\\\\" /Fd"cmTC_3543a.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5c492.dir\\Debug\\\\" /Fd"cmTC_5c492.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TC /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-1lbbwe\\Debug\\cmTC_3543a.exe" /INCREMENTAL /ILK:"cmTC_3543a.dir\\Debug\\cmTC_3543a.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-1lbbwe/Debug/cmTC_3543a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-1lbbwe/Debug/cmTC_3543a.lib" /MACHINE:X64  /machine:x64 cmTC_3543a.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_3543a.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-1lbbwe\\Debug\\cmTC_3543a.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-cz0e7r\\Debug\\cmTC_5c492.exe" /INCREMENTAL /ILK:"cmTC_5c492.dir\\Debug\\cmTC_5c492.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-cz0e7r/Debug/cmTC_5c492.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-cz0e7r/Debug/cmTC_5c492.lib" /MACHINE:X64  /machine:x64 cmTC_5c492.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_5c492.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-cz0e7r\\Debug\\cmTC_5c492.exe
         FinalizeBuildStatus:
-          Excluindo o arquivo "cmTC_3543a.dir\\Debug\\cmTC_3543a.tlog\\unsuccessfulbuild".
-          Tocando "cmTC_3543a.dir\\Debug\\cmTC_3543a.tlog\\cmTC_3543a.lastbuildstate".
-        Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-1lbbwe\\cmTC_3543a.vcxproj" (destinos padr├úo).
+          Excluindo o arquivo "cmTC_5c492.dir\\Debug\\cmTC_5c492.tlog\\unsuccessfulbuild".
+          Tocando "cmTC_5c492.dir\\Debug\\cmTC_5c492.tlog\\cmTC_5c492.lastbuildstate".
+        Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-cz0e7r\\cmTC_5c492.vcxproj" (destinos padr├úo).
         
         Compila├º├úo com ├¬xito.
             0 Aviso(s)
             0 Erro(s)
         
-        Tempo Decorrido 00:00:00.57
+        Tempo Decorrido 00:00:00.58
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-36tfwo"
-      binary: "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-36tfwo"
+      source: "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-f91ujk"
+      binary: "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-f91ujk"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -221,34 +221,34 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-36tfwo'
+        Change Dir: 'C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-f91ujk'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5ef83.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_14cda.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         Vers├úo do MSBuild 17.11.9+a69bbaaf5 para .NET Framework
-        Compila├º├úo de 29/09/2024 20:36:45 iniciada.
+        Compila├º├úo de 30/09/2024 13:42:32 iniciada.
         
-        Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-36tfwo\\cmTC_5ef83.vcxproj" no n├│ 1 (destinos padr├úo).
+        Projeto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-f91ujk\\cmTC_14cda.vcxproj" no n├│ 1 (destinos padr├úo).
         PrepareForBuild:
-          Criando o diret├│rio "cmTC_5ef83.dir\\Debug\\".
+          Criando o diret├│rio "cmTC_14cda.dir\\Debug\\".
           A sa├¡da estruturada est├í habilitada. A formata├º├úo do diagn├│stico do compilador refletir├í a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
-          Criando o diret├│rio "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-36tfwo\\Debug\\".
-          Criando o diret├│rio "cmTC_5ef83.dir\\Debug\\cmTC_5ef83.tlog\\".
+          Criando o diret├│rio "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-f91ujk\\Debug\\".
+          Criando o diret├│rio "cmTC_14cda.dir\\Debug\\cmTC_14cda.tlog\\".
         InitializeBuildStatus:
-          Criando "cmTC_5ef83.dir\\Debug\\cmTC_5ef83.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
-          Tocando "cmTC_5ef83.dir\\Debug\\cmTC_5ef83.tlog\\unsuccessfulbuild".
+          Criando "cmTC_14cda.dir\\Debug\\cmTC_14cda.tlog\\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+          Tocando "cmTC_14cda.dir\\Debug\\cmTC_14cda.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ef83.dir\\Debug\\\\" /Fd"cmTC_5ef83.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_14cda.dir\\Debug\\\\" /Fd"cmTC_14cda.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Vers├úo 19.41.34120 para x64
           Copyright (C) Microsoft Corporation. Todos os direitos reservados.
-          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ef83.dir\\Debug\\\\" /Fd"cmTC_5ef83.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W1 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_14cda.dir\\Debug\\\\" /Fd"cmTC_14cda.dir\\Debug\\vc143.pdb" /external:W1 /Gd /TP /errorReport:queue "C:\\Program Files\\JetBrains\\CLion 2024.2.2\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-36tfwo\\Debug\\cmTC_5ef83.exe" /INCREMENTAL /ILK:"cmTC_5ef83.dir\\Debug\\cmTC_5ef83.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-36tfwo/Debug/cmTC_5ef83.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-36tfwo/Debug/cmTC_5ef83.lib" /MACHINE:X64  /machine:x64 cmTC_5ef83.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_5ef83.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-36tfwo\\Debug\\cmTC_5ef83.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-f91ujk\\Debug\\cmTC_14cda.exe" /INCREMENTAL /ILK:"cmTC_14cda.dir\\Debug\\cmTC_14cda.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-f91ujk/Debug/cmTC_14cda.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/CMakeScratch/TryCompile-f91ujk/Debug/cmTC_14cda.lib" /MACHINE:X64  /machine:x64 cmTC_14cda.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_14cda.vcxproj -> C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-f91ujk\\Debug\\cmTC_14cda.exe
         FinalizeBuildStatus:
-          Excluindo o arquivo "cmTC_5ef83.dir\\Debug\\cmTC_5ef83.tlog\\unsuccessfulbuild".
-          Tocando "cmTC_5ef83.dir\\Debug\\cmTC_5ef83.tlog\\cmTC_5ef83.lastbuildstate".
-        Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\WriteFileLib\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-36tfwo\\cmTC_5ef83.vcxproj" (destinos padr├úo).
+          Excluindo o arquivo "cmTC_14cda.dir\\Debug\\cmTC_14cda.tlog\\unsuccessfulbuild".
+          Tocando "cmTC_14cda.dir\\Debug\\cmTC_14cda.tlog\\cmTC_14cda.lastbuildstate".
+        Projeto de compila├º├úo pronto "C:\\Users\\ITX GAMER\\Documents\\Programacao\\C++\\FileDB\\cmake-build-release-vs\\CMakeFiles\\CMakeScratch\\TryCompile-f91ujk\\cmTC_14cda.vcxproj" (destinos padr├úo).
         
         Compila├º├úo com ├¬xito.
             0 Aviso(s)

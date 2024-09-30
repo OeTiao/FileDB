@@ -1,6 +1,6 @@
-^C:\USERS\ITX GAMER\DOCUMENTS\PROGRAMACAO\C++\WRITEFILELIB\CMAKELISTS.TXT
+^C:\USERS\ITX GAMER\DOCUMENTS\PROGRAMACAO\C++\FILEDB\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" "-SC:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib" "-BC:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs" --check-stamp-file "C:/Users/ITX GAMER/Documents/Programacao/C++/WriteFileLib/cmake-build-release-vs/CMakeFiles/generate.stamp"
+"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" "-SC:/Users/ITX GAMER/Documents/Programacao/C++/FileDB" "-BC:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs" --check-stamp-file "C:/Users/ITX GAMER/Documents/Programacao/C++/FileDB/cmake-build-release-vs/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

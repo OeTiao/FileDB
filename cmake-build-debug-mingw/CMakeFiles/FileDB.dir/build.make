@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib"
+CMAKE_SOURCE_DIR = "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\cmake-build-debug-mingw"
+CMAKE_BINARY_DIR = "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\cmake-build-debug-mingw"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/FileDB.dir/depend.make
@@ -69,18 +69,18 @@ include CMakeFiles/FileDB.dir/progress.make
 include CMakeFiles/FileDB.dir/flags.make
 
 CMakeFiles/FileDB.dir/library.cpp.obj: CMakeFiles/FileDB.dir/flags.make
-CMakeFiles/FileDB.dir/library.cpp.obj: C:/Users/ITX\ GAMER/Documents/Programacao/C++/WriteFileLib/library.cpp
+CMakeFiles/FileDB.dir/library.cpp.obj: C:/Users/ITX\ GAMER/Documents/Programacao/C++/FileDB/library.cpp
 CMakeFiles/FileDB.dir/library.cpp.obj: CMakeFiles/FileDB.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\cmake-build-debug-mingw\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FileDB.dir/library.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FileDB.dir/library.cpp.obj -MF CMakeFiles\FileDB.dir\library.cpp.obj.d -o CMakeFiles\FileDB.dir\library.cpp.obj -c "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\library.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\cmake-build-debug-mingw\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/FileDB.dir/library.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FileDB.dir/library.cpp.obj -MF CMakeFiles\FileDB.dir\library.cpp.obj.d -o CMakeFiles\FileDB.dir\library.cpp.obj -c "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\library.cpp"
 
 CMakeFiles/FileDB.dir/library.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FileDB.dir/library.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\library.cpp" > CMakeFiles\FileDB.dir\library.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\library.cpp" > CMakeFiles\FileDB.dir\library.cpp.i
 
 CMakeFiles/FileDB.dir/library.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FileDB.dir/library.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\library.cpp" -o CMakeFiles\FileDB.dir\library.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\library.cpp" -o CMakeFiles\FileDB.dir\library.cpp.s
 
 # Object files for target FileDB
 FileDB_OBJECTS = \
@@ -92,7 +92,7 @@ FileDB_EXTERNAL_OBJECTS =
 libFileDB.a: CMakeFiles/FileDB.dir/library.cpp.obj
 libFileDB.a: CMakeFiles/FileDB.dir/build.make
 libFileDB.a: CMakeFiles/FileDB.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\cmake-build-debug-mingw\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libFileDB.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\cmake-build-debug-mingw\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libFileDB.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\FileDB.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\FileDB.dir\link.txt --verbose=$(VERBOSE)
 
@@ -105,6 +105,6 @@ CMakeFiles/FileDB.dir/clean:
 .PHONY : CMakeFiles/FileDB.dir/clean
 
 CMakeFiles/FileDB.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib" "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib" "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\cmake-build-debug-mingw" "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\cmake-build-debug-mingw" "C:\Users\ITX GAMER\Documents\Programacao\C++\WriteFileLib\cmake-build-debug-mingw\CMakeFiles\FileDB.dir\DependInfo.cmake" "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB" "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB" "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\cmake-build-debug-mingw" "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\cmake-build-debug-mingw" "C:\Users\ITX GAMER\Documents\Programacao\C++\FileDB\cmake-build-debug-mingw\CMakeFiles\FileDB.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/FileDB.dir/depend
 
