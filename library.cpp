@@ -8,10 +8,10 @@
 
 int DBInstance::NumOfValues = 0;
 
-File::File(const int CID, std::string CValue, std::filesystem::path FilePath, std::string Name) : ID(CID), Value(CValue)
+File::File(const int CID, std::string  CValue, const std::filesystem::path& FilePath, const std::string& Name) : ID(CID), Value(std::move(CValue))
 {
 
-    std::ofstream NewFile(FilePath.string() + "/" + Name + "/" + std::to_string(CID) + ".txt");
+    std::ofstream NewFile(FilePath.string() + "/" + Name + "/" + std::to_string(CID) + ".sdb");
 
     NewFile << Value;
     NewFile.close();

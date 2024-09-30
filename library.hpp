@@ -13,7 +13,7 @@ public:
     std::string Value;
 
 
-    File(int CID, std::string CValue, std::filesystem::path FilePath, std::string Name);
+    File(int CID, std::string  CValue, const std::filesystem::path& FilePath, const std::string& Name);
 };
 
 class DBInstance
